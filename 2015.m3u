@@ -2,7 +2,7 @@
 #EXTINF:-1,---2015 Individual Events---
 http://www.crossfit.com
 #EXTINF:-1,The CrossFit Games - Individual Pier Paddle
-https://www.youtube.com/watch?v=W656Cw9C-bU
+plugin://plugin.video.youtube/play/?video_id=W656Cw9C-bU
 #EXTINF:-1,The CrossFit Games - Individual Women Sandbag 2015
 https://www.youtube.com/watch?v=FjQKpSwbZ_w
 #EXTINF:-1,The CrossFit Games - Individual Men Sandbag 2015
